@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="bgnkjgpjkikegdlikfnopngabddfgkjj">
     <updatecheck
-      codebase="https://raw.githubusercontent.com/garytexla/ai-tool-ext/refs/heads/main/extension.crx"
+      codebase="https://raw.githubusercontent.com/garytexla/test-update-ext/refs/heads/main/extension.crx"
       version="0.0.1" />
   </app>
 </gupdate>
